@@ -1,5 +1,6 @@
 # postman-api-testing
-API testing sandbox - Postman
+REST API testing sandbox
+tool: Postman
 
 To repozytorium to zbiór praktycznej wiedzy, którą zdobyłam samodzielnie w ramach nauki narzędzia Postman i testowania API
 
