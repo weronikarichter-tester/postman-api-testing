@@ -1,2 +1,11 @@
 # postman-api-testing
 API testing sandbox - Postman
+
+To repozytorium to zbiór praktycznej wiedzy, którą zdobyłam samodzielnie w ramach nauki narzędzia Postman i testowania API
+
+Content:
+- Używanie metod GET, SET, POST, DELTE
+- Otrzymywanie kodów odpowiedzi HTTP
+- Tworzenie kolekcji
+- Używanie zmiennych globalnych, zmiennych środowiskowych, zmiennych kolekcji
+- Teorię testowania API
